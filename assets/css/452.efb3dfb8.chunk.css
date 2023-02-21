@@ -1,0 +1,36 @@
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 100;
+    src: url(/images/webpack-whois-landing/static/media/Lato-Thin.01923cbbba31d9cb7f29.ttf)
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 300;
+    src: url(/images/webpack-whois-landing/static/media/Lato-Light.bfc37ff1d5543ecd4ec6.ttf)
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 400;
+    src: url(/images/webpack-whois-landing/static/media/Lato-Regular.9919edff6283018571ad.ttf)
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 700;
+    src: url(/images/webpack-whois-landing/static/media/Lato-Bold.5dd5aa0269395f0ea927.ttf)
+}
+
+@font-face {
+    font-family: Lato;
+    font-style: normal;
+    font-weight: 900;
+    src: url(/images/webpack-whois-landing/static/media/Lato-Black.0b51cf32bbc2d8b8d840.ttf)
+}
+
+/*# sourceMappingURL=452.efb3dfb8.chunk.css.map*/
